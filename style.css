@@ -1,0 +1,13 @@
+body:hover
+{
+background: linear-gradient(to top right,rgb(255, 0, 234),rgb(255, 0, 242),rgb(238, 0, 255),rgb(208, 0, 255),rgb(123, 0, 255),rgb(0, 68, 255),rgb(0, 229, 255));
+}
+p:hover{
+    font-family: Blackadder ITC;
+}
+#a:hover{
+    font-family: Algerian;
+}
+label:hover{ 
+    font-family: Elephant;
+}
